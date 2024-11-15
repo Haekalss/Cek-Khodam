@@ -1,0 +1,22 @@
+.label {
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-pref-width: 200px;
+}
+
+.button {
+    -fx-font-size: 14px;
+}
+
+.text-area {
+    -fx-font-size: 14px;
+    -fx-pref-width: 300px;
+    -fx-pref-height: 200px;
+}
+
+.progress-bar {
+    -fx-indeterminate: false;
+}
